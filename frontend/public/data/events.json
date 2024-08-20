@@ -1,0 +1,189 @@
+{
+    "en": [
+      {
+        "id": 1,
+        "summary": "The Fall of the Berlin Wall (1989)",
+        "details": "A pivotal event in world history, marking the end of the Cold War.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 2,
+        "summary": "First Moon Landing (1969)",
+        "details": "Neil Armstrong became the first human to walk on the Moon.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 3,
+        "summary": "Discovery of DNA Structure (1953)",
+        "details": "James Watson and Francis Crick discovered the double helix structure of DNA.",
+        "icon": "faAtom"
+      },
+      {
+        "id": 4,
+        "summary": "United Nations Founded (1945)",
+        "details": "The United Nations was established after World War II to promote peace and security.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 5,
+        "summary": "Invention of the Internet (1960s)",
+        "details": "The development of the ARPANET, a precursor to the modern Internet.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 6,
+        "summary": "End of Apartheid in South Africa (1994)",
+        "details": "Nelson Mandela became the first black president of South Africa, marking the end of apartheid.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 7,
+        "summary": "First Human Heart Transplant (1967)",
+        "details": "Dr. Christiaan Barnard performed the first successful human heart transplant in South Africa.",
+        "icon": "faClock"
+      },
+      {
+        "id": 8,
+        "summary": "Launch of the Hubble Space Telescope (1990)",
+        "details": "The Hubble Space Telescope was launched into orbit, revolutionizing astronomy.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 9,
+        "summary": "Moon Landing of Apollo 11 (1969)",
+        "details": "Neil Armstrong and Buzz Aldrin became the first humans to land on the Moon.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 10,
+        "summary": "Fall of the Soviet Union (1991)",
+        "details": "The dissolution of the Soviet Union, leading to the end of the Cold War.",
+        "icon": "faLandmark"
+      }
+    ],
+    "de": [
+      {
+        "id": 1,
+        "summary": "Der Fall der Berliner Mauer (1989)",
+        "details": "Ein entscheidendes Ereignis in der Weltgeschichte, das das Ende des Kalten Krieges markiert.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 2,
+        "summary": "Erste Mondlandung (1969)",
+        "details": "Neil Armstrong wurde der erste Mensch, der auf dem Mond ging.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 3,
+        "summary": "Entdeckung der DNA-Struktur (1953)",
+        "details": "James Watson und Francis Crick entdeckten die Doppelhelixstruktur der DNA.",
+        "icon": "faAtom"
+      },
+      {
+        "id": 4,
+        "summary": "Gründung der Vereinten Nationen (1945)",
+        "details": "Die Vereinten Nationen wurden nach dem Zweiten Weltkrieg gegründet, um Frieden und Sicherheit zu fördern.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 5,
+        "summary": "Erfindung des Internets (1960er Jahre)",
+        "details": "Die Entwicklung des ARPANET, ein Vorläufer des modernen Internets.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 6,
+        "summary": "Ende der Apartheid in Südafrika (1994)",
+        "details": "Nelson Mandela wurde der erste schwarze Präsident Südafrikas, was das Ende der Apartheid markiert.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 7,
+        "summary": "Erste erfolgreiche Herztransplantation (1967)",
+        "details": "Dr. Christiaan Barnard führte die erste erfolgreiche Herztransplantation in Südafrika durch.",
+        "icon": "faClock"
+      },
+      {
+        "id": 8,
+        "summary": "Start des Hubble-Weltraumteleskops (1990)",
+        "details": "Das Hubble-Weltraumteleskop wurde in den Orbit gebracht und revolutionierte die Astronomie.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 9,
+        "summary": "Mondlandung der Apollo 11 (1969)",
+        "details": "Neil Armstrong und Buzz Aldrin wurden die ersten Menschen, die auf dem Mond landeten.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 10,
+        "summary": "Zusammenbruch der Sowjetunion (1991)",
+        "details": "Die Auflösung der Sowjetunion führte zum Ende des Kalten Krieges.",
+        "icon": "faLandmark"
+      }
+    ],
+    "tr": [
+      {
+        "id": 1,
+        "summary": "Berlin Duvarı'nın Çöküşü (1989)",
+        "details": "Soğuk Savaş'ın sona erdiğini işaret eden dünya tarihinin dönüm noktalarından biri.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 2,
+        "summary": "İlk Ay İnişi (1969)",
+        "details": "Neil Armstrong'un Ay'a ayak basan ilk insan olması.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 3,
+        "summary": "DNA Yapısının Keşfi (1953)",
+        "details": "James Watson ve Francis Crick'in DNA'nın çift sarmal yapısını keşfetmesi.",
+        "icon": "faAtom"
+      },
+      {
+        "id": 4,
+        "summary": "Birleşmiş Milletler'in Kuruluşu (1945)",
+        "details": "İkinci Dünya Savaşı'ndan sonra barış ve güvenliği teşvik etmek için Birleşmiş Milletler'in kurulması.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 5,
+        "summary": "İnternetin İcadı (1960'lar)",
+        "details": "Modern internetin öncüsü olan ARPANET'in geliştirilmesi.",
+        "icon": "faGlobe"
+      },
+      {
+        "id": 6,
+        "summary": "Güney Afrika'da Apartheid'ın Sona Ermesi (1994)",
+        "details": "Nelson Mandela'nın Güney Afrika'nın ilk siyah başkanı olarak göreve başlaması, Apartheid'ın sona ermesini işaret etti.",
+        "icon": "faLandmark"
+      },
+      {
+        "id": 7,
+        "summary": "İlk Başarılı Kalp Nakli (1967)",
+        "details": "Dr. Christiaan Barnard'ın Güney Afrika'da ilk başarılı kalp naklini gerçekleştirmesi.",
+        "icon": "faClock"
+      },
+      {
+        "id": 8,
+        "summary": "Hubble Uzay Teleskobu'nun Fırlatılması (1990)",
+        "details": "Hubble Uzay Teleskobu'nun yörüngeye fırlatılması, astronomiyi devrim niteliğinde değiştirdi.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 9,
+        "summary": "Apollo 11'in Ay'a İnişi (1969)",
+        "details": "Neil Armstrong ve Buzz Aldrin'in Ay'a iniş yaparak Ay'a ayak basan ilk insanlar olması.",
+        "icon": "faRocket"
+      },
+      {
+        "id": 10,
+        "summary": "Sovyetler Birliği'nin Çöküşü (1991)",
+        "details": "Sovyetler Birliği'nin çözülmesi, Soğuk Savaş'ın sona ermesini işaret etti.",
+        "icon": "faLandmark"
+      }
+    ]
+  }
+  
