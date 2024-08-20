@@ -18,7 +18,8 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [staticEvents, setStaticEvents] = useState([]);
-
+  const apiUrl = process.env.REACT_APP_API_URL;
+  
   useEffect(() => {
     const loadStaticEvents = async () => {
       try {
@@ -46,8 +47,8 @@ function App() {
     }
     setLoading(true);
     setError('');
-    try {
-      const response = await axios.get(`http://localhost:5008/events`, {
+    try {      
+      const response = await axios.get(`${apiUrl}/events`, {
         params: { date: birthDate, lang: i18n.language },
       });
       setEvents(response.data);
@@ -66,11 +67,12 @@ function App() {
         className="relative text-center text-white py-20 bg-cover bg-center" 
         style={{ backgroundImage: `url('/img/hero_bg.png')` }}
       >
-        <div className="flex justify-around items-center mb-6">
-          <img src={heroImage} alt="Logo" className="max-w-[300px]" />
+        <div className="flex flex-col sm:flex-row justify-around items-center mb-6">
+          <img src={heroImage} alt="Logo" className="max-w-[300px] mb-4 sm:mb-0" />
           <DropdownMenu />
         </div>
-        <div className="max-w-xl mx-auto">
+
+        <div className="max-w-xl mx-auto px-4">
           <div>
             <label htmlFor="dateInput" className="block">{t('dateInputLabel')}</label>
             <input
@@ -78,7 +80,7 @@ function App() {
               type="date"
               value={birthDate}
               onChange={(e) => setBirthDate(e.target.value)}
-              className="border border-gray-300 p-2 rounded-md mb-4 w-full text-gray-700"
+              className="border border-gray-300 p-2 rounded-md mb-4 w-full sm:w-lg text-gray-700"
             />
           </div>
           <div className='text-center'>
